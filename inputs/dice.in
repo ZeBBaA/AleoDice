@@ -1,0 +1,4 @@
+// The program input for dice/src/main.leo
+[main]
+number_of_rolls: u8 = 3u8;
+number_of_sides: u8 = 6u8;
